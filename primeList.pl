@@ -1,3 +1,7 @@
+% Dan Choe
+% 12/19/2017
+% https://github.com/dan-choe/Prolog
+
 is_prime(2).
 is_prime(3).
 is_prime(N) :-
